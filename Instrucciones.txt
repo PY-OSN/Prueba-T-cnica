@@ -1,0 +1,20 @@
+
+--------------------------------------------------BUEN DÍA------------------------------------------------------         
+
+No se necesita instalación de programas para ejecutar el archivo .html, basta con darle doble clic 
+y se ejecutara en el navegador que para este caso es chrome.
+
+
+-El archivo "Matriz Ahorra Seguros_ Prueba QA" contiene la respuesta a los puntos solicitados en el archivo "Prueba QA" 
+
+-Los dos archivos de word son evidencias de los errores encontrados al ejecutar los casos de prueba que forman parte de la hoja "1. Prueba Landing Cabify" del archivo "Matriz Ahorra Seguros_ Prueba QA"
+
+
+
+
+NOTA: en el archivo "Prueba QA" que recibí para realizar los ejercicios para el primer punto solicita : 
+
+
+---Utiliza la matriz de casos de pruebas a continuación para identificar los casos con los que no cumple la landing page de Cabify--- 
+
+Esta matriz que comenta no me la enviaron así que realice una matriz nueva y detecte dos errores que son los archivos word que comento anteriormente.
